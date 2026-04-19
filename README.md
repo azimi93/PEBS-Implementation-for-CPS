@@ -3,7 +3,7 @@
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2021b%2B-orange?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![MATPOWER](https://img.shields.io/badge/MATPOWER-8.0%2B-blue?style=flat-square)](https://matpower.org/)
-[![Paper](https://img.shields.io/badge/Paper-DOI-red?style=flat-square)]([https://www.sciencedirect.com/science/article/abs/pii/S2352467725001092]
+[![Paper](https://img.shields.io/badge/Paper-DOI-red?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S2352467725001092)
 
 ---
 
