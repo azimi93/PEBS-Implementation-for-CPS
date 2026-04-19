@@ -9,4 +9,4 @@
 
 ## 📖 Overview
 
-This repository contains the official implementation of the **PEBS (Potential Energy Boundary Surface) method** for the paper hybrid game-theoretic security assessment of cyber-physical power systems (CPPS) under partial-information multi-agent reinforcement learning (MARL).
+This repository contains the implementation of the **PEBS (Potential Energy Boundary Surface) method** for the paper hybrid game-theoretic security assessment of cyber-physical power systems (CPPS) under partial-information multi-agent reinforcement learning (MARL).
